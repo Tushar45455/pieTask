@@ -1,0 +1,46 @@
+body {
+    background-color: white;
+    color: #404040;
+    font-family: Georgia, Garamond, serif;
+    font-size: 11pt;
+}
+
+header h1 {
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: 'Lucida Sans Unicode', Helvetica, Arial, sans-serif;
+    font-size: 22pt;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: 'Lucida Sans Unicode', Helvetica, Arial, sans-serif;
+    font-size: 18pt;
+    text-decoration: underline;
+}
+
+h2, h3 {
+    text-align: left;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+ul li, ol li {
+    margin-bottom: 5px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+footer p {
+    font-family: monospace;
+    white-space: pre;
+}
